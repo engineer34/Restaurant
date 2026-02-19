@@ -1,0 +1,1 @@
+Open zip and run it in vs code I went to command prompt got in my Restaurant folder ran npm start and typed http://localhost:8080/ in my web browser and it runs my restaurant page to click Menu Home which is default and About.
